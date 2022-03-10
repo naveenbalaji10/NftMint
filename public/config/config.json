@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5A1C0A3f7c1264AcB033a0a84462D3428e3A83C6",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5a1c0a3f7c1264acb033a0a84462d3428e3a83c6",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Binary Girl",
+  "SYMBOL": "Bg",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/binary-girl-v3",
+  "SHOW_BACKGROUND": true
+}
